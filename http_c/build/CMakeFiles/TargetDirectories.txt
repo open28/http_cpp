@@ -1,3 +1,0 @@
-/home/fang/workspace/cpp/Http_t/http_c/build/CMakeFiles/reactor_c.dir
-/home/fang/workspace/cpp/Http_t/http_c/build/CMakeFiles/edit_cache.dir
-/home/fang/workspace/cpp/Http_t/http_c/build/CMakeFiles/rebuild_cache.dir
